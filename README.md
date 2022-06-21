@@ -21,8 +21,8 @@
 <br>
 <br>
 <p>👉🏼 DigitalizArte</p>
-<a href="[https://github.com/MauroIannizzotto/PI-Food](https://pg-frontend-eight.vercel.app/)">
-  <img align="center" style="margin:1rem 0.5rem" src="https://firebasestorage.googleapis.com/v0/b/artpage-aa77e.appspot.com/o/aa%2FLogo222.png?alt=media&token=8fa86748-ede3-4a0f-8bf1-e72cd455b1f4"  height="200" width="200" />
+<a href="https://pg-frontend-eight.vercel.app">
+  <img align="center" style="margin:1rem 0.5rem" src="https://firebasestorage.googleapis.com/v0/b/artpage-aa77e.appspot.com/o/aa%2FLogo222.png?alt=media&token=8fa86748-ede3-4a0f-8bf1-e72cd455b1f4"  height="100" width="400" />
 </a>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
