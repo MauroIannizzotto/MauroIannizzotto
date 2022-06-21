@@ -28,7 +28,7 @@
 <br>
 <p>👉🏼 DigitalizArte
 
-🗂 Red Social que permite a los Artistas Digitales desarrollarse en su ambiente profesional y poner en valor todo su trabajo y dedicación. Por lo que podrán publicar sus obras, mientras que los coleccionistan tendran la posibilidad de adquirirlas en alta calidad mediante la pasarela de pago Paypal. Se utilizó un sistema de compresion de imagenes a la hora de la visualización, combianndo ésta con una marca de agua para protegerlas de fraude. Las mismas se almacenan en Firebase para brindar mayor protección. Cuenta con acceso como invitado, usuario registrado, administrador, sistema de seguidos y seguidores, likes, entre muchas otras cosas!
+🗂 Red Social que permite a los Artistas Digitales desarrollarse en su ambiente profesional y poner en valor todo su trabajo y dedicación. Por lo que podrán publicar sus obras, mientras que los coleccionistas tendrán la posibilidad de adquirirlas en alta calidad mediante la pasarela de pago Paypal. Se utilizó un sistema de compresión de imágenes a la hora de la visualización, combinando ésta con una marca de agua para protegerlas de fraude. Las mismas se almacenan en Firebase para brindar mayor protección. Cuenta con acceso como invitado, usuario registrado, administrador, sistema de seguidos y seguidores, likes, entre muchas otras cosas!
 
 No dudes en visitarla!
   
