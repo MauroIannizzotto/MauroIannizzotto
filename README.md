@@ -14,7 +14,9 @@
 👌🏼 Muy Feliz con el resultado de esta Aplicación, la cual tiene mucho por mejorar y corregir, pero orgulloso de haber aprendido tanto en solo 2 meses y medio. Si, en febrero no conocía la existencia de una variable y mucho menos un ciclo for 😲. Por lo que este logro tiene mucho valor para mi.
 
 🚀Ahora a seguir aprendiendo mucho mas de esta apasionante forma de crear.</p>
-<a href="https://github.com/MauroIannizzotto/PI-Food">
+
+💻 Code: "https://github.com/MauroIannizzotto/PI-Food"
+<a href="https://www.linkedin.com/posts/mauro-iannizzotto-dev_postgresql-sequelize-nodejs-activity-6932316849615306752-rC-m?utm_source=linkedin_share&utm_medium=member_desktop_web">
   <img align="center" style="margin:1rem 0.5rem" src="https://raw.githubusercontent.com/MauroIannizzotto/PI-Food/master/cooking.png"  height="200" width="200" />
 </a>
 
