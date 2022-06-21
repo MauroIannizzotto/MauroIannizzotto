@@ -1,6 +1,12 @@
 <h1 align="center">¡Bienvenido/a a mi Perfil!👋🏽 </h1>
 <h3 align="center">Mi nombre es Mauro, y soy Full Stack Developer</h3>
 
+<a href="https://github.com/MauroIannizzotto/PI-Food">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 - 📫 Contactame **mauro.iannizzotto@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
