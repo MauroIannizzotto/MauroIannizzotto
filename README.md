@@ -1,7 +1,7 @@
-<h1 align="center">Hola👋, Soy Mauro Iannizzotto</h1>
-<h3 align="center">Soy Full Stack Developer</h3>
+<h1 align="center">¡Bienvenido/a a mi Perfil!👋🏽 </h1>
+<h3 align="center">Mi nombre es Mauro, y soy Full Stack Developer</h3>
 
-- 📫 How to reach me **mauro.iannizzotto@hotmail.com**
+- 📫 Contactame **mauro.iannizzotto@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
