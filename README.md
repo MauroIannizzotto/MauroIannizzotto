@@ -6,7 +6,7 @@
   
 💻 Mi objetivo es poder desempeñar mi labor diario en un ambiente empresarial que permita explotar mis capacidades, aportando a la capacitación y el crecimiento personal. Entendiendo eso como un crecimiento mutuo.</p>
 <br>
-<h4 align="center">Te muestro mis proyectos</h4>
+<h3 align="center">Te muestro mis proyectos</h3>
 <a href="https://github.com/MauroIannizzotto/PI-Food">
   <img align="center" style="margin:1rem 0.5rem" src="https://raw.githubusercontent.com/MauroIannizzotto/PI-Food/master/cooking.png"  height="200" width="200" />
 </a>
