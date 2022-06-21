@@ -7,6 +7,13 @@
 💻 Mi objetivo es poder desempeñar mi labor diario en un ambiente empresarial que permita explotar mis capacidades, aportando a la capacitación y el crecimiento personal. Entendiendo eso como un crecimiento mutuo.</p>
 <br>
 <h3 align="center">Te muestro mis proyectos</h3>
+<p>👉🏼 Se trata de una SPA (Single Page Application) en la cual podremos conocer un listado de 100 recetas traídas desde una API externa (https://spoonacular.com/).
+
+👨🏼‍🍳 Para su desarrollo se creó una Base de Datos relacional con #PostgreSQL y #Sequelize como ORM. El Back End fue desarrollado en #nodejs utilizando #Express y para Front End, se utilizó #React y #Redux como state management. Todos los componentes fueron desarrollados con #CSS sin uso de librerías externas.
+
+👌🏼 Muy Feliz con el resultado de esta Aplicación, la cual tiene mucho por mejorar y corregir, pero orgulloso de haber aprendido tanto en solo 2 meses y medio. Si, en febrero no conocía la existencia de una variable y mucho menos un ciclo for 😲. Por lo que este logro tiene mucho valor para mi.
+
+🚀Ahora a seguir aprendiendo mucho mas de esta apasionante forma de crear.</p>
 <a href="https://github.com/MauroIannizzotto/PI-Food">
   <img align="center" style="margin:1rem 0.5rem" src="https://raw.githubusercontent.com/MauroIannizzotto/PI-Food/master/cooking.png"  height="200" width="200" />
 </a>
