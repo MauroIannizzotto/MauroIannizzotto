@@ -1,11 +1,19 @@
-<h1 align="center">¡Bienvenido/a a mi Perfil!👋🏽 </h1>
-<h3 align="center">Mi nombre es Mauro, y soy Full Stack Developer</h3>
+<h1 align="center">¡Bienvenida/o a mi Perfil!👋🏽 </h1>
+<h3 align="center">Full Stack Developer</h3>
+<p align="center">¡Hola! Soy Mauro 👋🏼 Full Stack Developer de Mendoza, Argentina con ganas de trabajar para el 🌍
 
+✔ Soy una persona muy curiosa y creativa, apasionada por el aprendizaje y los desafíos. En esta industria IT estoy decidido a crecer y nunca dejar de aprender. 
+  
+💻 Mi objetivo es poder desempeñar mi labor diario en un ambiente empresarial que permita explotar mis capacidades, aportando a la capacitación y el crecimiento personal. Entendiendo eso como un crecimiento mutuo.</p>
+<br>
+<h4 align="center">Te muestro mis proyectos</h4>
 <a href="https://github.com/MauroIannizzotto/PI-Food">
-  <img align="center" style="margin:1rem 0.5rem" src="https://raw.githubusercontent.com/MauroIannizzotto/PI-Food/master/cooking.png" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://raw.githubusercontent.com/MauroIannizzotto/PI-Food/master/cooking.png"  height="200" width="200" />
 </a>
 
 <br>
+<br>
+
 
 - 📫 Contactame **mauro.iannizzotto@hotmail.com**
 
