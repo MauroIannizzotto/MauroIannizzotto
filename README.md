@@ -11,18 +11,32 @@
 
 👨🏼‍🍳 Para su desarrollo se creó una Base de Datos relacional con #PostgreSQL y #Sequelize como ORM. El Back End fue desarrollado en #nodejs utilizando #Express y para Front End, se utilizó #React y #Redux como state management. Todos los componentes fueron desarrollados con #CSS sin uso de librerías externas.
 
-👌🏼 Muy Feliz con el resultado de esta Aplicación, la cual tiene mucho por mejorar y corregir, pero orgulloso de haber aprendido tanto en solo 2 meses y medio. Si, en febrero no conocía la existencia de una variable y mucho menos un ciclo for 😲. Por lo que este logro tiene mucho valor para mi.
+👌🏼 Muy Feliz con el resultado de esta Aplicación, la cual tiene mucho por mejorar y corregir, pero orgulloso de haber aprendido tanto en tan poco tiempo.
 
-🚀Ahora a seguir aprendiendo mucho mas de esta apasionante forma de crear.</p>
+🚀Ahora a seguir aprendiendo mucho mas de esta apasionante forma de crear.
 
-💻 Code: "https://github.com/MauroIannizzotto/PI-Food"
+⏳ Duración: 3 Semanas
+
+💻 Code: "https://github.com/MauroIannizzotto/PI-Food"</p>
+
+
 <a href="https://www.linkedin.com/posts/mauro-iannizzotto-dev_postgresql-sequelize-nodejs-activity-6932316849615306752-rC-m?utm_source=linkedin_share&utm_medium=member_desktop_web">
   <img align="center" style="margin:1rem 0.5rem" src="https://raw.githubusercontent.com/MauroIannizzotto/PI-Food/master/cooking.png"  height="200" width="200" />
 </a>
 
 <br>
 <br>
-<p>👉🏼 DigitalizArte</p>
+<p>👉🏼 DigitalizArte
+
+🗂 Red Social que permite a los Artistas Digitales desarrollarse en su ambiente profesional y poner en valor todo su trabajo y dedicación. Por lo que podrán publicar sus obras, mientras que los coleccionistan tendran la posibilidad de adquirirlas en alta calidad mediante la pasarela de pago Paypal. Se utilizó un sistema de compresion de imagenes a la hora de la visualización, combianndo ésta con una marca de agua para protegerlas de fraude. Las mismas se almacenan en Firebase para brindar mayor protección. Cuenta con acceso como invitado, usuario registrado, administrador, sistema de seguidos y seguidores, likes, entre muchas otras cosas!
+
+No dudes en visitarla!
+  
+⏳ Duración: 3 Semanas en conjunto con 6 integrantes de equipo.
+
+💻 Code: "https://github.com/BugalloF/PG-Backend"
+💻 Code: "https://github.com/BugalloF/PG-Frontend"</p>
+</p>
 <a href="https://pg-frontend-eight.vercel.app">
   <img align="center" style="margin:1rem 0.5rem" src="https://firebasestorage.googleapis.com/v0/b/artpage-aa77e.appspot.com/o/aa%2FLogo222.png?alt=media&token=8fa86748-ede3-4a0f-8bf1-e72cd455b1f4"  height="100" width="400" />
 </a>
